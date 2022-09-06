@@ -19,4 +19,4 @@ main()
   process.exit(1);
 });
 
-//Crypto Devs Token Contract Address:  0x1E911303F2659910D988A5Fc9938D989712a7b28
+//Crypto Devs Token Contract Address:  0x6E9cA2E7e80992EEEf81B7C9C9A80050df20E78C
